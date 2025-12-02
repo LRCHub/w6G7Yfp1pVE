@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "YOKU",
+  "base_artist": "Eve",
+  "createdAt": "2025-12-02T12:17:53.686282Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Yoku",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/01_Yoku_Eve.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Shinrin-Yoku",
+      "artist": "Enter Shikari",
+      "has_synced": false,
+      "path": "select/02_Shinrin-Yoku_Enter_Shikari.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "YOKU",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/03_YOKU_Eve.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Shinrin‐yoku",
+      "artist": "Enter shikari",
+      "has_synced": true,
+      "path": "select/04_Shinrin‐yoku_Enter_shikari.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Keigaku No Yoku",
+      "artist": "Dir En Grey",
+      "has_synced": false,
+      "path": "select/05_Keigaku_No_Yoku_Dir_En_Grey.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "YOKU",
+      "artist": "Eve (57)",
+      "has_synced": true,
+      "path": "select/06_YOKU_Eve_(57).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "YOKU",
+      "artist": "Eve",
+      "has_synced": true,
+      "path": "select/07_YOKU_Eve.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "by your side (feat. yoku, kise & manni ✰)",
+      "artist": "riensu",
+      "has_synced": true,
+      "path": "select/08_by_your_side_(feat._yoku,_kise_&_manni_✰)_riensu.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Keigaku no Yoku (谿壑の欲)",
+      "artist": "Dir en grey",
+      "has_synced": false,
+      "path": "select/09_Keigaku_no_Yoku_(谿壑の欲)_Dir_en_grey.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "谿壑の欲 (Keigaku no Yoku) [LIVE] - ※Live Take from 爆音上映会『目黒鹿鳴館GIG』(Concert Film Screening『Meguro Rock-May-Kan GIG』)",
+      "artist": "DIR EN GREY",
+      "has_synced": true,
+      "path": "select/10_谿壑の欲_(Keigaku_no_Yoku)_[LIVE]_-_※Live_Take_from_爆音上映会『目黒鹿鳴館GIG』(Concert_Film_Scr_DIR_EN_GREY.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Melocore Band No Album No Sankyokume Guraini Yoku Shuuroku Sareteiru Kanjino Kyoku",
+      "artist": "Yabai T-Shirts Yasan",
+      "has_synced": false,
+      "path": "select/11_Melocore_Band_No_Album_No_Sankyokume_Guraini_Yoku_Shuuroku_Sareteiru_Kanjino_Kyo_Yabai_T-Shirts_Yasan.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Yoku & hiro",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/12_Yoku_&_hiro_Blur.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Yoku and Hiro",
+      "artist": "Blur",
+      "has_synced": true,
+      "path": "select/13_Yoku_and_Hiro_Blur.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Yoku Taidua And The Village",
+      "artist": "Jesse Harlin",
+      "has_synced": true,
+      "path": "select/14_Yoku_Taidua_And_The_Village_Jesse_Harlin.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "YOKU",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_YOKU_Eve.txt"
+    }
+  ]
+}
